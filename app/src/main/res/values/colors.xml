@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#FF2F80EC</color>
+    <color name="primary_blue_dark">#0033AA</color>
+    <color name="accent">#FF4081</color>
+    <color name="background_grey">#F2F2F2</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="navigationBarColor">#FFFFFF</color>
+    <color name="statusBarColor">#000000</color>
+
+    <color name="textPrimary">#000000</color>
+    <color name="textSecondary">#FFFFFF</color>
+</resources>
+
+
+

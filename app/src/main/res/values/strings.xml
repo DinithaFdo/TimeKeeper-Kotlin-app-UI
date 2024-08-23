@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Time Keeper</string>
+    <string name="logo">Time Keeper Logo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="Bus_Schedules">Bus Schedule</string>
+    <string name="train_Schedules">Train Schedule</string>
+    <string name="skip">Skip</string>
+    <string name="from">From :</string>
+    <string name="to">To :</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="route">Saved Routes</string>
+    <string name="settings">Settings</string>
+    <string name="add">Add Route</string>
+    <string name="fav">Favourites</string>
+    <string name="linkAcc">Link Account</string>
+
+    <string-array name="bus_city">
+        <item>Kalutara</item>
+        <item>Panadura</item>
+        <item>Kadulwela</item>
+        <item>Kollupitiya</item>
+        <item>Kandy</item>
+        <item>Kurunegala</item>
+        <item>Nittambuwa</item>
+        <item>Colombo</item>
+        <item>Kadawatha</item>
+        <item>Gampaha</item>
+        <item>Dehiwala</item>
+    </string-array>
+
+    <string-array name="train_city">
+        <item>Panadura</item>
+        <item>Kalutara</item>
+        <item>Mount Lavinia</item>
+        <item>Kollupitiya</item>
+        <item>Kandy</item>
+        <item>Kurunegala</item>
+        <item>Polgahawela</item>
+        <item>Colombo Fort</item>
+        <item>Pinwatta</item>
+        <item>Aluthgama</item>
+        <item>Dehiwala</item>
+    </string-array>
+
+</resources>
+
+
+
